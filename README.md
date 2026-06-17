@@ -65,6 +65,18 @@ Sigma-Rule-Collection/
 ├── screenshots/
 └── README.md
 
+## Portfolio Value
+
+This project demonstrates practical skills in:
+
+- Detection Engineering
+- Threat Detection
+- MITRE ATT&CK Mapping
+- Security Monitoring
+- Threat Hunting
+- SOC Operations
+- Incident Investigation
+
 ## Future Enhancements
 
 - Sysmon Rules
