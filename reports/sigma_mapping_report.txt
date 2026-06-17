@@ -1,0 +1,29 @@
+SIGMA RULE COLLECTION REPORT
+
+Rule 1:
+Multiple Failed Login Attempts
+
+MITRE ATT&CK:
+T1110 - Brute Force
+
+Severity:
+High
+
+====================================
+
+Rule 2:
+User Creation Activity
+
+MITRE ATT&CK:
+T1136 - Create Account
+
+Severity:
+High
+
+====================================
+
+Outcome:
+Rules successfully mapped to MITRE ATT&CK techniques.
+
+Purpose:
+Detection engineering and SOC alert development.

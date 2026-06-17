@@ -1,0 +1,25 @@
+title: User Creation Activity
+
+id: sigma-002
+
+status: experimental
+
+description: Detects creation of new user accounts.
+
+author: Thabo Sakonta
+
+logsource:
+  product: linux
+
+detection:
+  selection:
+    message|contains:
+      - "useradd"
+
+  condition: selection
+
+level: high
+
+tags:
+  - attack.privilege_escalation
+  - attack.t1136

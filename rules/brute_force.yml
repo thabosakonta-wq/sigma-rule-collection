@@ -1,0 +1,26 @@
+title: Multiple Failed Login Attempts
+
+id: sigma-001
+
+status: experimental
+
+description: Detects multiple failed login attempts that may indicate a brute force attack.
+
+author: Thabo Sakonta
+
+logsource:
+  product: linux
+  service: sshd
+
+detection:
+  selection:
+    message|contains:
+      - "Failed password"
+
+  condition: selection
+
+level: high
+
+tags:
+  - attack.credential_access
+  - attack.t1110
