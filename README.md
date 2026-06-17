@@ -55,6 +55,7 @@ This project demonstrates:
 * SOC Operations
 * Incident Investigation
 * Security Analytics
+  
 Sigma-Rule-Collection/
 ├── rules/
 │   ├── brute_force.yml
