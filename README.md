@@ -55,7 +55,14 @@ This project demonstrates:
 * SOC Operations
 * Incident Investigation
 * Security Analytics
-
+Sigma-Rule-Collection/
+├── rules/
+│   ├── brute_force.yml
+│   └── privilege_escalation.yml
+├── reports/
+│   └── sigma_mapping_report.txt
+├── screenshots/
+└── README.md
 
 ## Future Enhancements
 
