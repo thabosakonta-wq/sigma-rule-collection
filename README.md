@@ -84,6 +84,16 @@ This project demonstrates practical skills in:
 - Windows Event Mapping
 - ATT&CK Navigator Integration
 
+  ## Screenshots
+
+### Brute Force Detection Rule
+
+![Brute Force Rule](screenshots/brute_force_rule.png)
+
+### Privilege Escalation Detection Rule
+
+![Privilege Escalation Rule](screenshots/privilege_escalation_rule.png)
+
 ## Author
 
 Thabo Sakonta
