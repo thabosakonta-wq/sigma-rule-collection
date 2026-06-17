@@ -84,16 +84,6 @@ This project demonstrates practical skills in:
 - Windows Event Mapping
 - ATT&CK Navigator Integration
 
-  ## Screenshots
-
-### Brute Force Detection Rule
-
-![Brute Force Rule](screenshots/brute_force_rule.png)
-
-### Privilege Escalation Detection Rule
-
-![Privilege Escalation Rule](screenshots/privilege_escalation_rule.png)
-
 ## Screenshots
 
 ### Brute Force Detection Rule
@@ -107,3 +97,13 @@ This project demonstrates practical skills in:
 Thabo Sakonta
 
 Microsoft Certified Security Operations Analyst (SC-200)
+
+GitHub:
+https://github.com/thabosakonta-wq
+
+LinkedIn:
+https://www.linkedin.com/in/thabo-sakonta-377a3748
+
+## License
+
+This project is intended for educational, research, and portfolio demonstration purposes.
